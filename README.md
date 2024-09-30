@@ -8,7 +8,8 @@
 - Streamlit(Python based UI)
 
 ## Snapshot of UI
-![UI](https://github.com/user-attachments/assets/4e4a9244-abaf-4b68-9cc9-4b84eb8dba5c)
+![UI](https://github.com/user-attachments/assets/20e7ff65-e5c8-4a9c-882b-da5623821db6)
+
 
 ## Working
 - Upload PDF
